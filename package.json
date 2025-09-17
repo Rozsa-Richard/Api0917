@@ -1,0 +1,29 @@
+{
+  "name": "api0917",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rozsa-Richard/Api0917.git"
+  },
+  "keywords": [],
+  "author": "Richárd Rózsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rozsa-Richard/Api0917/issues"
+  },
+  "homepage": "https://github.com/Rozsa-Richard/Api0917#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
